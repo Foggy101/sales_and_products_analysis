@@ -8,4 +8,5 @@ The project is divided into 4 parts:<br>
 • [Sales and products overview](https://github.com/Foggy101/sales_and_products_analysis/tree/main/dashboard_photos) in PowerBI
 
 
-<h1>DEMAND FORECASTING</h1>
+<h2>DEMAND FORECASTING</h2>
+[LINK](https://github.com/Foggy101/sales_and_products_analysis/blob/main/demand_forecasting.ipynb)
