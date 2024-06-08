@@ -34,7 +34,8 @@ The third part is also related to customer reviews. It provides additional analy
 <h2>SALES AND PRODUCTS DASHBOARD</h2>
 The goal of the last part is creating an interactive dashboard for a stakeholder to draw insights from. It focuses on best and worst sellers and products within product caregories, but it also has an additional tab dedicated to analysis the impact of weight of products on their price and total sales.<br><br>
 FOR MORE IMAGES GO TO:<br>
-• [Sales and products dashboard](https://github.com/Foggy101/sales_and_products_analysis/tree/main/images) in PowerBI (*links to images*)
+[Images](https://github.com/Foggy101/sales_and_products_analysis/tree/main/images)
+
 [Images](https://github.com/Foggy101/sales_and_products_analysis/tree/main/images)
 <br><br>
 <strong>EXAMPLE IMAGE: MAIN VIEW</strong><br>
