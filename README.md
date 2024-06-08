@@ -16,9 +16,14 @@ After performing time series decomposition, two models are built - SARIMA and ra
 
 <hr>
 <h2>REVIEW SENTIMENT ANALYSIS</h2>
+This part is dedicated to creating a review classification neural network. The aim of the model is distinguishing between positive/neutral/negative text reviews left by customers. The code includes a way for users to input a custom comment and make the model evaluate it. Keep in mind that the comment has to be in portuguese.<br><br>
+<strong>EXAMPLE IMAGE: USER INPUT PREDICTION</strong><br>
+<img src="images/review_sentiment_prediction.jpg">
 
 <hr>
 <h2>REVIEW ANALYTICS</h2>
+
+n about numerical product ratings with text comments. I hear that modern algorithms can read and understand these reviews. Let’s implement the functionality for classifying positive/negative comments and consolidate the analytics. I’m interested in the correlation of text comments with a numerical rating (1-5), products with the best/worst reviews, sellers who only collect negative feedback.
 
 <hr>
 <h2>SALES AND PRODUCTS DASHBOARD</h2>
