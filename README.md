@@ -22,8 +22,14 @@ This part is dedicated to creating a review classification neural network. The a
 
 <hr>
 <h2>REVIEW ANALYTICS</h2>
-
-n about numerical product ratings with text comments. I hear that modern algorithms can read and understand these reviews. Let’s implement the functionality for classifying positive/negative comments and consolidate the analytics. I’m interested in the correlation of text comments with a numerical rating (1-5), products with the best/worst reviews, sellers who only collect negative feedback.
+The third part is also related to customer reviews. It provides additional analysis on selected business cases.<br>
+• It checks the correlation between review scores and whether a comment was left.<br>
+• Shows products with best and worst reviews.<br>
+• Filter for sellers with negative reviews only.<br>
+• Highlights price mentions in text comments so that it's possible to look through this information for mentions of the competitors’ prices.<br><br>
+<strong>EXAMPLE IMAGE: REVIEW SCORE VS COMMENT LEFT</strong><br>
+<img src="images/review_analytics_comments.jpg">
 
 <hr>
 <h2>SALES AND PRODUCTS DASHBOARD</h2>
+The goal of the last part is creating an interactive dashboard for a stakeholder to draw insights from. It focuses on best and worst sellers and products within product caregories, but it also has an additional tab dedicated to analysis the impact of weight of products on their sales. 
