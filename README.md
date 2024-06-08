@@ -9,4 +9,4 @@ The project is divided into 4 parts:<br>
 
 
 <h2>DEMAND FORECASTING</h2>
-[LINK](https://github.com/Foggy101/sales_and_products_analysis/blob/main/demand_forecasting.ipynb)
+[Demand forecasting models](https://github.com/Foggy101/sales_and_products_analysis/blob/main/demand_forecasting.ipynb)
